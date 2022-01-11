@@ -1,6 +1,6 @@
 # Blockchain Ledger
 
-Built a python based blockchain leder with a web interface using streamlit to let banks conduct financial transactions while being able to verify the integrity of the data in the ledger.
+Built a python based blockchain ledger with a web interface using streamlit to let banks conduct financial transactions while being able to verify the integrity of the data in the ledger.
 
 ---
 
